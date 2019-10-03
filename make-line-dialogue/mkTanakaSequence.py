@@ -46,23 +46,27 @@ def make_sequence_from_file(fname):
             if len(items) != 3:
                 continue
 
-            items[2] = re.sub("\n"," ",items[2])
-            items[2] = re.sub("  "," ",items[2])
-            items[2] = items[2].lstrip("\"")
-            items[2] = items[2].rstrip("\"")
+            # 発言内容
+            comment = items[2]
 
+            # 不要な改行やクォーテーションを削除
+            comment = re.sub("\n"," ",comment)
+            comment = re.sub("  "," ",comment)
+            comment = comment.lstrip("\"")
+            comment = comment.rstrip("\"")
 
-            if items[2] == "[写真]":
+            # 写真やスタンプは除外
+            if comment.startswith(("[写真]","[スタンプ]", "[動画]", "[ノート]", "[アルバム]", "[連絡先]", "[ボイスメッセージ]", "[投票]")):
                 continue
-
             
             if items[1] != "田中涼太":
-                seq_prev = items[2]
+                seq_prev = comment
             else:
                 # 誰かの発言に対して田中涼太が発言している組み合わせを記録
                 if seq_prev != "":
 
-                    sequence.append((seq_prev, items[2]))
+                    sequence.append((seq_prev, comment))
+                    seq_prev = comment
                     #sys.stderr.write("input[%s] : 田中涼太[%s]\n" % (seq_prev, items[2]))
                     #seq_prev = ""
     return sequence
@@ -80,11 +84,15 @@ def main():
             if not ".txt" in f:
                 continue
             seq = make_sequence_from_file(f)
-            for inp, out in seq:
-                uniq_seq[inp] = out
-        for k, v in uniq_seq.items():
-            f_out.write("input: %s\n" % (k))
-            f_out.write("output: %s\n" % (v))
+            # for inp, out in seq:
+            #     uniq_seq[inp] = out
+        
+        for inp, out in seq:
+            f_out.write("input: %s\n" % (inp))
+            f_out.write("output: %s\n" % (out))
+        # for k, v in uniq_seq.items():
+        #     f_out.write("input: %s\n" % (k))
+        #     f_out.write("output: %s\n" % (v))
             #print("input: %s\noutput: %s" % (k, v))
     return
 
