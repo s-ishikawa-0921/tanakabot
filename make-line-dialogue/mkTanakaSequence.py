@@ -29,12 +29,6 @@ def make_sequence_from_file(fname):
         s = f.read()
         seq_prev = ""
 
-
-        with open("test.txt", "w", encoding='utf-8') as f_test:
-            f_test.write(s)
-
-
-
         # 投稿毎に分割（投稿はCRLF区切り、投稿内容はタブ区切りになっている）
         for line in re.split("\r\n", s):
 
@@ -94,6 +88,18 @@ def main():
         #     f_out.write("input: %s\n" % (k))
         #     f_out.write("output: %s\n" % (v))
             #print("input: %s\noutput: %s" % (k, v))
+    
+    with open("sequenceT.txt", "w", encoding='utf-8') as f_out:
+
+        for f in files:
+            if not ".txt" in f:
+                continue
+            seq = make_sequence_from_file(f)
+
+        for inp, out in seq:
+            f_out.write("%s\t%s\n" % (inp, out))
+
+
     return
 
 
