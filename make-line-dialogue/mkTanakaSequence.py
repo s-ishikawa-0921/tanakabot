@@ -66,6 +66,7 @@ def make_sequence_from_file(fname):
     return sequence
 
 def main():
+    
     if not os.path.exists(nuc_dir):
         raise Exception("no extracted files.")
 
@@ -81,9 +82,9 @@ def main():
             # for inp, out in seq:
             #     uniq_seq[inp] = out
         
-        for inp, out in seq:
-            f_out.write("input: %s\n" % (inp))
-            f_out.write("output: %s\n" % (out))
+            for inp, out in seq:
+                f_out.write("input: %s\n" % (inp))
+                f_out.write("output: %s\n" % (out))
         # for k, v in uniq_seq.items():
         #     f_out.write("input: %s\n" % (k))
         #     f_out.write("output: %s\n" % (v))
@@ -96,10 +97,18 @@ def main():
                 continue
             seq = make_sequence_from_file(f)
 
-        for inp, out in seq:
-            f_out.write("%s\t%s\n" % (inp, out))
+            for inp, out in seq:
+                f_out.write("%s\t%s\n" % (inp, out))
 
+    with open("sequenceN.txt", "w", encoding='utf-8') as f_out:
 
+        for f in files:
+            if not ".txt" in f:
+                continue
+            seq = make_sequence_from_file(f)
+
+            for inp, out in seq:
+                f_out.write("%s\n%s\n\n" % (inp, out))
     return
 
 
