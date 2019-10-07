@@ -88,11 +88,8 @@ def create_model(session, forward_only):
       forward_only=forward_only)
 
   ckpt = tf.train.get_checkpoint_state(FLAGS.train_dir)
-  #if ckpt and gfile.Exists(ckpt.model_checkpoint_path):
-    #add
-  if ckpt and not os.path.isabs(ckpt.model_checkpoint_path):
-    ckpt.model_checkpoint_path= os.path.abspath(os.path.join(os.getcwd(), ckpt.model_checkpoint_path))
-    #so far
+  
+  if ckpt and ckpt.model_checkpoint_path:
     print("Reading model parameters from %s" % ckpt.model_checkpoint_path)
     model.saver.restore(session, ckpt.model_checkpoint_path)
   else:
@@ -208,7 +205,20 @@ def decode():
       if data_utils.EOS_ID in outputs:
         outputs = outputs[:outputs.index(data_utils.EOS_ID)]
 
-      print("".join([rev_out_vocab[output] for output in outputs]))
+      #for vocab in rev_out_vocab:
+      #  print("voc:%s" % (vocab))
+      
+      out_text = ""
+      
+      for output in outputs:
+        if output < len(rev_out_vocab):
+          out_text += rev_out_vocab[output]
+        else:
+          out_text += ("【%d】" % (output))
+      
+      #print("len:%d" % len(rev_out_vocab))
+      #print("".join([rev_out_vocab[output] for output in outputs]))
+      print(out_text)
       print("\n> ", end="")
       sys.stdout.flush()
       sentence = sys.stdin.readline()
