@@ -14,7 +14,7 @@ except:
     def copen(fname, mode):
         return open(fname, mode, encoding='utf-8')
 
-nuc_dir = "data"
+nuc_dir = "data/LINE"
 
 def make_sequence_from_file(fname):
     fname = os.path.join(nuc_dir, fname)
@@ -28,6 +28,7 @@ def make_sequence_from_file(fname):
         # ファイル読み込み
         s = f.read()
         seq_prev = ""
+        prevTanaka = False
 
         # 投稿毎に分割（投稿はCRLF区切り、投稿内容はタブ区切りになっている）
         for line in re.split("\r\n", s):
@@ -55,14 +56,19 @@ def make_sequence_from_file(fname):
             
             if items[1] != "田中涼太":
                 seq_prev = comment
+                prevTanaka = False
             else:
                 # 誰かの発言に対して田中涼太が発言している組み合わせを記録
                 if seq_prev != "":
 
-                    sequence.append((seq_prev, comment))
-                    seq_prev = comment
+                    if not prevTanaka:
+                        sequence.append([seq_prev, comment])
+                    else:
+                        sequence[-1][1] = sequence[-1][1] + ' ' + comment
                     #sys.stderr.write("input[%s] : 田中涼太[%s]\n" % (seq_prev, items[2]))
                     #seq_prev = ""
+                
+                prevTanaka = True
     return sequence
 
 def main():
@@ -73,7 +79,7 @@ def main():
     files = os.listdir(nuc_dir)
     uniq_seq = {}
 
-    with open("sequence.txt", "w", encoding='utf-8') as f_out:
+    with open("sequenceLINE.txt", "w", encoding='utf-8') as f_out:
 
         for f in files:
             if not ".txt" in f:

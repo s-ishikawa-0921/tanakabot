@@ -1,0 +1,45 @@
+アプリ博資料目次(⑩分ぐらいで)
+１．アプリ博とは？（HTML5モバイルアプリDAY）
+　　　HTML5クロスプラットフォーム開発を盛り上げていこうよ
+
+２．他の出展企業情報・来場者数・会場
+
+来場者数　700人　会場：秋葉原 UDX
+
+■ ソニーデジタルネットワークアプリケーションズ株式会社
+Secure Coding Checker
+http://www.sonydna.com/sdna/solution/scc.html
+アプリ開発事業, 開発支援サービスなど
+Secure Coding Checker のサービスの展示、また可能であればVRの商材も展示予定
+■ サイボウズ株式会社
+kintone
+https://kintone.cybozu.com/jp/
+monaca-kintone連携を出展
+■ 日本アイ・ビー・エム株式会社
+IBM Bluemix
+https://new-console.ng.bluemix.net/mobile/getting-started/
+IBMのクラウド環境、IBM Bluemixによる、スマホアプリ開発プロジェクトに有効なサービスを一挙にご紹介
+■ レバレジーズ株式会社
+teratail
+https://teratail.com/
+■ 特定非営利活動法人エルピーアイジャパン
+HTML5プロフェッショナル認定試験
+http://html5exam.jp/
+HTML5プロフェッショナル認定試験のご案内
+
+３．出展メンバー・内容・目的
+当社事務局メンバー：川嶋、荒井、石川、平子、田中、川上、榊
+出展内容：Switch、介護Botアプリ、歩数計アプリのパネル展示とデモンストレーション
+出展目的：
+
+４．出展したアプリ
+　　Switch、
+　　
+　　介護Bot（デモ）
+　　　　介護bot出来上がるまで。
+　　　　　
+
+５．会場の雰囲気
+　　写真数枚掲載 K
+
+６．出展成果・感想（イベント）

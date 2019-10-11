@@ -1,0 +1,298 @@
+{
+  "participants": [
+    {
+      "name": "\u00e6\u00b5\u0085\u00e4\u00ba\u0095 \u00e6\u00b8\u0089"
+    },
+    {
+      "name": "\u00e5\u00a4\u00a7\u00e6\u00a3\u00ae \u00e4\u00bf\u00a1\u00e5\u0093\u0089"
+    },
+    {
+      "name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2"
+    },
+    {
+      "name": "Tetsuya  Kageyama"
+    },
+    {
+      "name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e6\u00b5\u0085\u00e4\u00ba\u0095 \u00e6\u00b8\u0089",
+      "timestamp_ms": 1398304553167,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2",
+      "timestamp_ms": 1398303954368,
+      "content": "\u00e3\u0081\u009c\u00e3\u0081\u00b2\u00e3\u0080\u009c(\u00e3\u0083\u00bb\u00cf\u0089\u00e3\u0083\u00bb)\u00e3\u0083\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398303794114,
+      "content": "\u00e3\u0082\u0082\u00e3\u0081\u00a1\u00e3\u0082\u008d\u00e3\u0082\u0093\u00e9\u009b\u0086\u00e3\u0081\u00be\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0082\u0087\u00e3\u0081\u0086\u00ef\u00bc\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398303779682,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e5\u00a4\u00a7\u00e6\u00a3\u00ae \u00e4\u00bf\u00a1\u00e5\u0093\u0089",
+      "timestamp_ms": 1398301219336,
+      "content": "\u00e3\u0081\u008a\u00e7\u0096\u00b2\u00e3\u0082\u008c\u00e6\u00a7\u0098\u00e3\u0081\u00a7\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e3\u0080\u009c\n\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e9\u0085\u0092\u00e3\u0081\u008c\u00e9\u00a3\u00b2\u00e3\u0082\u0081\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f\u00ef\u00bc\u0088\u00e2\u0089\u00a7\u00e2\u0088\u0087\u00e2\u0089\u00a6\u00ef\u00bc\u0089",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087",
+      "timestamp_ms": 1398299389392,
+      "content": "\u00e6\u0098\u00a8\u00e6\u0097\u00a5\u00e3\u0081\u00af\u00e3\u0081\u008a\u00e7\u0096\u00b2\u00e3\u0082\u008c\u00e6\u00a7\u0098\u00e3\u0081\u00a7\u00e3\u0081\u0097\u00e3\u0081\u009f\u00ef\u00bc\u0081\n\u00e3\u0081\u00be\u00e3\u0081\u009f\u00e3\u0080\u0081\u00e9\u009b\u0086\u00e3\u0081\u00be\u00e3\u0082\u008c\u00e3\u0081\u009f\u00e3\u0082\u0089\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00aa\u00e3\u0081\u0081\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e6\u0080\u009d\u00e3\u0081\u0084\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0081\u00ad\u00ef\u00bc\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398253626607,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u00b5\u0085\u00e4\u00ba\u0095 \u00e6\u00b8\u0089",
+      "timestamp_ms": 1398253398372,
+      "content": "\u00e3\u0081\u00a7\u00e3\u0081\u008d\u00e3\u0081\u009f\u00ef\u00bc\u0081\u00e5\u00b8\u00b0\u00e3\u0082\u008b\u00ef\u00bc\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u00b5\u0085\u00e4\u00ba\u0095 \u00e6\u00b8\u0089",
+      "timestamp_ms": 1398252964092,
+      "content": "\u00e3\u0082\u0084\u00e3\u0081\u00a3\u00e3\u0081\u00b1\u00e6\u0082\u0094\u00e3\u0081\u0097\u00e3\u0081\u0084\u00e3\u0081\u00ae\u00e3\u0081\u00a7\u00e5\u008b\u0095\u00e3\u0081\u008b\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0081\u008b\u00e3\u0082\u0089\u00e8\u00a1\u008c\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398251925465,
+      "content": "\u00e5\u0085\u0088\u00e3\u0081\u00ab\u00e9\u0080\u0083\u00e3\u0081\u0092\u00e5\u0087\u00ba\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009fw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e5\u00a4\u00a7\u00e6\u00a3\u00ae \u00e4\u00bf\u00a1\u00e5\u0093\u0089",
+      "timestamp_ms": 1398251900865,
+      "content": "\u00e3\u0081\u00aa\u00e3\u0082\u0093\u00e3\u0081\u00a8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u00b5\u0085\u00e4\u00ba\u0095 \u00e6\u00b8\u0089",
+      "timestamp_ms": 1398251880655,
+      "content": "Leap\u00e3\u0081\u00ae\u00e5\u008b\u0089\u00e5\u00bc\u00b7\u00e4\u00bc\u009a\u00e3\u0081\u00aa\u00e3\u0081\u00ae\u00e3\u0081\u00abAzure\u00e3\u0081\u00a7\u00e3\u0081\u00a4\u00e3\u0081\u00be\u00e3\u0081\u00a5\u00e3\u0081\u0084\u00e3\u0081\u00a6\u00e3\u0082\u008b\u00e5\u0083\u0095\u00e3\u0081\u00a7\u00e3\u0081\u0099\u00e3\u0080\u0082\u00e5\u00bf\u0083\u00e6\u008a\u0098\u00e3\u0082\u008c\u00e3\u0081\u009f\u00e3\u0081\u00a7\u00e3\u0081\u009d\u00e3\u0082\u008d\u00e3\u0081\u009d\u00e3\u0082\u008d\u00e8\u00a1\u008c\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e5\u00a4\u00a7\u00e6\u00a3\u00ae \u00e4\u00bf\u00a1\u00e5\u0093\u0089",
+      "timestamp_ms": 1398251803280,
+      "content": "\u00e4\u00bb\u008a\u00e4\u00bb\u00a3\u00e3\u0080\u0085\u00e6\u009c\u00a8\u00ef\u00bc\u0081\n\u00e5\u0085\u0088\u00e3\u0081\u00ab\u00e9\u00a3\u00b2\u00e3\u0081\u00bf\u00e3\u0081\u00be\u00e3\u0081\u008f\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e3\u0081\u00a6\u00e4\u00b8\u008b\u00e3\u0081\u0095\u00e3\u0081\u0084\u00e3\u0080\u009c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398250968163,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087",
+      "timestamp_ms": 1398250961430,
+      "content": "\u00e5\u00bd\u00b1\u00e5\u00b1\u00b1\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0081\u00a8\u00e5\u0090\u0088\u00e6\u00b5\u0081\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0081\u00af\u00e3\u0081\u0084\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e3\u0080\u009c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398250929563,
+      "content": "\u00e5\u0085\u00a5\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f\u00ef\u00bc\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087",
+      "timestamp_ms": 1398250649322,
+      "content": "\u00e3\u0082\u00a4\u00e3\u0083\u00b3\u00e3\u0082\u00bf\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u0086\u00e3\u0082\u00a3\u00e3\u0083\u0093\u00e3\u0083\u00ab\u00e3\u0081\u00ae\u00ef\u00bc\u00a2\u00ef\u00bc\u0091\u00e3\u0081\u00a7\u00e3\u0081\u0099\u00e3\u0080\u0082\n\u00e8\u00bf\u00b7\u00e3\u0081\u00a3\u00e3\u0081\u009f\u00e3\u0082\u0089\u00e9\u009b\u00bb\u00e8\u00a9\u00b1\u00e3\u0081\u008f\u00e3\u0081\u00a0\u00e3\u0081\u0095\u00e3\u0081\u0084\u00ef\u00bc\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087",
+      "timestamp_ms": 1398250590015,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u00b5\u0085\u00e4\u00ba\u0095 \u00e6\u00b8\u0089",
+      "timestamp_ms": 1398250586211,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398250577643,
+      "content": "\u00e6\u00b5\u0085\u00e4\u00ba\u0095\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0080\u0081\u00e8\u00bf\u00b7\u00e3\u0082\u008f\u00e3\u0081\u00aa\u00e3\u0081\u0091\u00e3\u0082\u008c\u00e3\u0081\u00b05\u00e5\u0088\u0086\u00e3\u0081\u00a7\u00e8\u00a1\u008c\u00e3\u0081\u0091\u00e3\u0081\u009d\u00e3\u0081\u0086\u00e3\u0080\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087",
+      "timestamp_ms": 1398250476521,
+      "content": "\u00e3\u0081\u00b5\u00e3\u0082\u0089\u00e3\u0081\u00b5\u00e3\u0082\u0089\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e5\u00be\u0085\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0082\u0088\u00e3\u0080\u009c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398250470535,
+      "content": "\u00e3\u0081\u0084\u00e3\u0081\u00be\u00e5\u008b\u0095\u00e3\u0081\u008d\u00e5\u0087\u00ba\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398250442774,
+      "content": "\u00e5\u00bd\u00b1\u00e5\u00b1\u00b1\u00e3\u0081\u00a7\u00e4\u00ba\u0088\u00e7\u00b4\u0084\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087",
+      "timestamp_ms": 1398250423061,
+      "content": "\u00e3\u0081\u00a8\u00e6\u0080\u009d\u00e3\u0081\u00a3\u00e3\u0081\u009f\u00e3\u0082\u0089\u00e3\u0080\u0081\u00e5\u00ba\u0097\u00e3\u0081\u00ae\u00e5\u0089\u008d\u00e3\u0081\u00ab\u00e7\u009d\u0080\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087",
+      "timestamp_ms": 1398250404015,
+      "content": "\u00e3\u0081\u0095\u00e3\u0081\u00be\u00e3\u0082\u0088\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e3\u0081\u00be\u00e3\u0081\u0099(\u00e7\u00ac\u0091)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398250362321,
+      "content": "\u00e6\u009e\u0097\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e5\u00ba\u0097\u00e3\u0081\u00ab\u00e7\u009d\u0080\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f\u00ef\u00bc\u009f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087",
+      "timestamp_ms": 1398250199792,
+      "content": "\u00e3\u0081\u00a4\u00e3\u0081\u0084\u00e3\u0081\u009f\u00e3\u0080\u009c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2",
+      "timestamp_ms": 1398249785590,
+      "content": "\u00e3\u0081\u00be\u00e3\u0081\u00a0\u00e8\u008d\u00bb\u00e7\u00aa\u00aa\u00e3\u0080\u009c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398249741073,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e5\u00a4\u00a7\u00e6\u00a3\u00ae \u00e4\u00bf\u00a1\u00e5\u0093\u0089",
+      "timestamp_ms": 1398249568562,
+      "content": "\u00e6\u0096\u00b0\u00e5\u00ae\u00bf\u00e5\u0088\u00b0\u00e7\u009d\u0080\u00e3\u0080\u009c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2",
+      "timestamp_ms": 1398248586610,
+      "content": "\u00e3\u0081\u00a1\u00e3\u0081\u00a8\u00e9\u0081\u0085\u00e3\u0082\u008c\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082\u00e5\u00a7\u008b\u00e3\u0082\u0081\u00e3\u0081\u00a6\u00e3\u0081\u00a6\u00e3\u0081\u008f\u00e3\u0081\u00a0\u00e3\u0081\u0095\u00e3\u0081\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398247416061,
+      "sticker": {
+        "uri": "messages/stickers_used/851549_767334479959628_274486868_n_767334476626295.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087",
+      "timestamp_ms": 1398247118149,
+      "content": "19:50\u00e3\u0081\u0093\u00e3\u0082\u008d\u00e3\u0081\u00ab\u00e5\u0093\u0081\u00e5\u00b7\u009d\u00e6\u009d\u00b1\u00e5\u008f\u00a3\u00e3\u0081\u00ab\u00e7\u009d\u0080\u00e3\u0081\u008f\u00e3\u0082\u0088\u00e3\u0081\u0086\u00e3\u0081\u00ab\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0081\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398244651711,
+      "content": "\u00e6\u009d\u00b1\u00e4\u00ba\u00ac\u00e3\u0081\u00ae\u00e6\u0087\u0087\u00e8\u00a6\u00aa\u00e4\u00bc\u009a\u00e5\u00a0\u00b4\u00e8\u00a6\u0096\u00e5\u00af\u009f\u00e3\u0082\u0082\u00e3\u0081\u008b\u00e3\u0081\u00ad\u00e3\u0081\u00a6\u00e3\u0081\u00be\u00e3\u0081\u0099\u00ef\u00bc\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398244626128,
+      "content": "20\u00e6\u0099\u0082\u00e3\u0080\u0081\u00e5\u00bd\u00b1\u00e5\u00b1\u00b1\u00e3\u0081\u00a7\u00e4\u00ba\u0088\u00e7\u00b4\u0084\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f\u00ef\u00bc\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398244602058,
+      "content": "http://r.gnavi.co.jp/g223618/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398232465466,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e5\u00a4\u00a7\u00e6\u00a3\u00ae \u00e4\u00bf\u00a1\u00e5\u0093\u0089",
+      "timestamp_ms": 1398227018277,
+      "content": "\u00e3\u0083\u0081\u00e3\u0083\u00a7\u00e3\u0083\u0083\u00e3\u0083\u0088\u00e9\u0081\u0085\u00e3\u0082\u008c\u00e3\u0082\u008b\u00e3\u0081\u008b\u00e3\u0082\u0082\u00e3\u0083\u0087\u00e3\u0082\u00b9\u00e3\u0081\u008c\u00e3\u0081\u008c\u00e3\u0081\u008c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e5\u00a4\u00a7\u00e6\u00a3\u00ae \u00e4\u00bf\u00a1\u00e5\u0093\u0089",
+      "timestamp_ms": 1398226800605,
+      "content": "\u00e8\u00a1\u008c\u00e3\u0081\u0091\u00e3\u0081\u009d\u00e3\u0081\u0086",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u00b5\u0085\u00e4\u00ba\u0095 \u00e6\u00b8\u0089",
+      "timestamp_ms": 1398224956838,
+      "content": "\u00e3\u0081\u00a1\u00e3\u0082\u0087\u00e3\u0081\u00a3\u00e3\u0081\u00a8\u00e9\u0081\u0085\u00e3\u0082\u008c\u00e3\u0082\u008b\u00e3\u0081\u008b\u00e3\u0082\u0082\u00e3\u0080\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2",
+      "timestamp_ms": 1398224785547,
+      "content": "\u00e8\u00a1\u008c\u00e3\u0081\u0091\u00e3\u0081\u009d\u00e3\u0081\u0086",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087",
+      "timestamp_ms": 1398224767120,
+      "content": "\u00e7\u00a7\u0081\u00e3\u0081\u00af\u00e5\u00a4\u00a7\u00e4\u00b8\u0088\u00e5\u00a4\u00ab\u00e3\u0081\u00a7\u00e3\u0081\u0099",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tetsuya  Kageyama",
+      "timestamp_ms": 1398224480700,
+      "content": "\u00e4\u00bb\u008a\u00e6\u0097\u00a5\u00e8\u00a1\u008c\u00e3\u0081\u008f\u00e3\u0081\u00b2\u00e3\u0081\u00a8\u00e3\u0081\u00af\u00e3\u0081\u0093\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u00b3\u00e3\u0083\u0090\u00e3\u0083\u00bc\u00e3\u0081\u00a7\u00e3\u0081\u0099\u00e3\u0081\u008b\u00e3\u0081\u00ad\u00ef\u00bc\u009f\n20\u00e6\u0099\u0082\u00e5\u0093\u0081\u00e5\u00b7\u009d\u00e3\u0081\u00af\u00e3\u0081\u0084\u00e3\u0081\u008b\u00e3\u0081\u008c\u00e3\u0081\u00a7\u00e3\u0081\u0097\u00e3\u0082\u0087\u00e3\u0081\u0086\u00e3\u0081\u008b\u00ef\u00bc\u009f",
+      "type": "Generic"
+    }
+  ],
+  "title": "\u00e6\u00b5\u0085\u00e4\u00ba\u0095 \u00e6\u00b8\u0089\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0080\u0081\u00e5\u00a4\u00a7\u00e6\u00a3\u00ae \u00e4\u00bf\u00a1\u00e5\u0093\u0089\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0080\u0081Tetsuya  Kageyama\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0080\u0081\u00e6\u009e\u0097 \u00e5\u00ae\u00b9\u00e5\u00b4\u0087\u00e3\u0081\u0095\u00e3\u0082\u0093",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/qianjingshesandasenxinzaisanTetsuyaKageyamasanlinrongchongsan_H_oBe-n65A"
+}

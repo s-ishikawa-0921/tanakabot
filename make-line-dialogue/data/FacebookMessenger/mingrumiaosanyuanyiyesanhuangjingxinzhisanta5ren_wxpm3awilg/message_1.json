@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "\u00e6\u0098\u008e \u00e5\u00a6\u0082\u00e5\u00a6\u0099"
+    },
+    {
+      "name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2"
+    },
+    {
+      "name": "\u00e5\u008e\u009f \u00e4\u00b8\u0080\u00e4\u00b9\u009f"
+    },
+    {
+      "name": "\u00e8\u008d\u0092\u00e4\u00ba\u0095\u00e4\u00bf\u00a1\u00e4\u00b9\u008b"
+    },
+    {
+      "name": "\u00e3\u0081\u00b2\u00e3\u0082\u0089\u00e3\u0081\u00ac\u00e3\u0081\u00be \u00e3\u0081\u009b\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00a1"
+    },
+    {
+      "name": "\u00e5\u00b9\u00b3\u00e6\u009e\u0097 \u00e5\u00ae\u008f\u00e4\u00b8\u0080"
+    },
+    {
+      "name": "Yusuke Kurogi"
+    },
+    {
+      "name": "\u00e7\u00a6\u008f\u00e7\u0094\u00b0 \u00e9\u00be\u008d\u00e4\u00b8\u0080"
+    },
+    {
+      "name": "Junzo Kudou"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e8\u008d\u0092\u00e4\u00ba\u0095\u00e4\u00bf\u00a1\u00e4\u00b9\u008b",
+      "timestamp_ms": 1416985272560,
+      "content": "https://chouseisan.com/schedule/List?h=06ba847d1aef4ea0a4b3f57be51a8aab",
+      "share": {
+        "link": "https://chouseisan.com/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "\u00e8\u008d\u0092\u00e4\u00ba\u0095\u00e4\u00bf\u00a1\u00e4\u00b9\u008b",
+      "timestamp_ms": 1416985261940,
+      "content": "\u00e8\u008d\u0092\u00e4\u00ba\u0095\u00e4\u00bf\u00a1\u00e4\u00b9\u008b\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0081\u008c\u00e3\u0081\u00b2\u00e3\u0082\u0089\u00e3\u0081\u00ac\u00e3\u0081\u00be \u00e3\u0081\u009b\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00a1\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0082\u0092\u00e8\u00bf\u00bd\u00e5\u008a\u00a0\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e3\u0080\u0082",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "\u00e3\u0081\u00b2\u00e3\u0082\u0089\u00e3\u0081\u00ac\u00e3\u0081\u00be \u00e3\u0081\u009b\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00a1"
+        }
+      ]
+    },
+    {
+      "sender_name": "\u00e8\u008d\u0092\u00e4\u00ba\u0095\u00e4\u00bf\u00a1\u00e4\u00b9\u008b",
+      "timestamp_ms": 1416984994603,
+      "content": "https://chouseisan.com/schedule/List?h=06ba847d1aef4ea0a4b3f57be51a8aab",
+      "share": {
+        "link": "https://chouseisan.com/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "\u00e8\u008d\u0092\u00e4\u00ba\u0095\u00e4\u00bf\u00a1\u00e4\u00b9\u008b",
+      "timestamp_ms": 1416984992807,
+      "content": "\u00e5\u0087\u00ba\u00e6\u00ac\u00a0\u00e3\u0081\u00ab\u00e3\u0083\u0081\u00e3\u0082\u00a7\u00e3\u0083\u0083\u00e3\u0082\u00af\u00e3\u0081\u008a\u00e9\u00a1\u0098\u00e3\u0081\u0084\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082",
+      "share": {
+        "link": "https://chouseisan.com/"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "\u00e6\u0098\u008e \u00e5\u00a6\u0082\u00e5\u00a6\u0099\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0080\u0081\u00e5\u008e\u009f \u00e4\u00b8\u0080\u00e4\u00b9\u009f\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0080\u0081\u00e8\u008d\u0092\u00e4\u00ba\u0095\u00e4\u00bf\u00a1\u00e4\u00b9\u008b\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0080\u0081\u00e4\u00bb\u00965\u00e4\u00ba\u00ba",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/mingrumiaosanyuanyiyesanhuangjingxinzhisanta5ren_WxPm3awIlg"
+}

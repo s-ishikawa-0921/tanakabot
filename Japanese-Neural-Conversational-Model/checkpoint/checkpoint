@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/tanakabot/Japanese-Neural-Conversational-Model/checkpoint/translate.ckpt-49000"
+all_model_checkpoint_paths: "/content/tanakabot/Japanese-Neural-Conversational-Model/checkpoint/translate.ckpt-48600"
+all_model_checkpoint_paths: "/content/tanakabot/Japanese-Neural-Conversational-Model/checkpoint/translate.ckpt-48700"
+all_model_checkpoint_paths: "/content/tanakabot/Japanese-Neural-Conversational-Model/checkpoint/translate.ckpt-48800"
+all_model_checkpoint_paths: "/content/tanakabot/Japanese-Neural-Conversational-Model/checkpoint/translate.ckpt-48900"
+all_model_checkpoint_paths: "/content/tanakabot/Japanese-Neural-Conversational-Model/checkpoint/translate.ckpt-49000"

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "\u00e5\u00b8\u0083\u00e9\u0087\u008e\u00e7\u00bf\u0094\u00e4\u00b8\u0080"
+    },
+    {
+      "name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2",
+      "timestamp_ms": 1469434708204,
+      "content": "<!-- MyBatis Setting -->\n\t<beans:bean id=\"dataSourceMyBatis\" class=\"org.apache.commons.dbcp.BasicDataSource\">\n\t\t<beans:property name=\"driverClassName\" value=\"${database.driver}\" />\n\t\t<beans:property name=\"url\" value=\"${database.url}\" />\n\t\t<beans:property name=\"username\" value=\"${database.username}\" />\n\t\t<beans:property name=\"password\" value=\"${database.password}\" />\n\t</beans:bean>\n\n\n\t<beans:bean id=\"sqlSessionFactory\" class=\"org.mybatis.spring.SqlSessionFactoryBean\">\n\t\t<beans:property name=\"dataSource\" ref=\"dataSourceMyBatis\" />\n\t\t<beans:property name=\"configLocation\" value=\"classpath:mybatis-config.xml\" />\n<!--\n\t\t<beans:property name=\"mapperLocations\" value=\"classpath:mybatis/**/*.xml\" />\n -->\n\n\t</beans:bean>\n\n\t<beans:bean class=\"org.mybatis.spring.mapper.MapperScannerConfigurer\">\n\t\t<beans:property name=\"basePackage\" value=\"jp.co.nissaycap.mapper\" />\n\t\t<beans:property name=\"sqlSessionFactoryBeanName\" value=\"sqlSessionFactory\" />\n\t</beans:bean>\n\n\t<beans:bean id=\"transactionManager\"\n\t\tclass=\"org.springframework.jdbc.datasource.DataSourceTransactionManager\">\n\t\t<beans:property name=\"dataSource\" ref=\"dataSourceMyBatis\" />\n\t</beans:bean>\n\n\t<tx:annotation-driven transaction-manager=\"transactionManager\" />\n<!--",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2",
+      "timestamp_ms": 1464962454063,
+      "content": "\u00e6\u0096\u00b0\u00e3\u0081\u0097\u00e3\u0081\u0084Facebook\u00e3\u0081\u00ae\u00e5\u008f\u008b\u00e9\u0081\u0094\u00e3\u0080\u0081\u00e5\u00b8\u0083\u00e9\u0087\u008e\u00e7\u00bf\u0094\u00e4\u00b8\u0080\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0081\u00ab\u00e3\u0081\u0082\u00e3\u0081\u0084\u00e3\u0081\u0095\u00e3\u0081\u00a4\u00e3\u0081\u0097\u00e3\u0082\u0088\u00e3\u0081\u0086\u00e3\u0080\u0082",
+      "type": "Generic"
+    }
+  ],
+  "title": "\u00e5\u00b8\u0083\u00e9\u0087\u008e\u00e7\u00bf\u0094\u00e4\u00b8\u0080\u00e3\u0081\u0095\u00e3\u0082\u0093",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/buyexiangyisan_whPwaNRO8g"
+}

@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "\u00e5\u00b0\u008f\u00e5\u0080\u0089 \u00e5\u00a4\u00a7"
+    },
+    {
+      "name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2"
+    },
+    {
+      "name": "Mami Kirin Yokoyama"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2",
+      "timestamp_ms": 1420357247749,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mami Kirin Yokoyama",
+      "timestamp_ms": 1420355934517,
+      "content": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0080\u0081\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u008c\u00e3\u0081\u00a8\u00e3\u0083\u00bcw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e5\u00b0\u008f\u00e5\u0080\u0089 \u00e5\u00a4\u00a7",
+      "timestamp_ms": 1420355597046,
+      "content": "\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u008c\u00e3\u0081\u00a8\u00e3\u0081\u0086\u00e3\u0081\u0094\u00e3\u0081\u0096\u00e3\u0081\u0084\u00e3\u0081\u00be\u00e3\u0081\u0099\u00ef\u00bc\u0081w",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2",
+      "timestamp_ms": 1420355543965,
+      "content": "\u00e7\u00a5\u009e\u00e7\u0094\u00b0\u00e6\u0098\u008e\u00e7\u00a5\u009e\u00e3\u0081\u00ab\u00e5\u00a5\u0089\u00e7\u00b4\u008d\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0081\u008d\u00e3\u0081\u009f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "\u00e7\u009f\u00b3\u00e5\u00b7\u009d \u00e6\u0099\u00ba\u00e5\u008f\u00b2",
+      "timestamp_ms": 1420355541833,
+      "photos": [
+        {
+          "uri": "messages/inbox/xiaocangdasantoMamiKirinYokoyamasan_13JCF4dJHg/photos/10893510_649698065142181_1540199677_n_649698065142181.jpg",
+          "creation_timestamp": 1420355541
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "\u00e5\u00b0\u008f\u00e5\u0080\u0089 \u00e5\u00a4\u00a7\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0081\u00a8Mami Kirin Yokoyama\u00e3\u0081\u0095\u00e3\u0082\u0093",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/xiaocangdasantoMamiKirinYokoyamasan_13JCF4dJHg"
+}
